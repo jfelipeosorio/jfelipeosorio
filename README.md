@@ -34,7 +34,7 @@
 
 ## 📫 Connect with Me  
 - [LinkedIn](https://www.linkedin.com/in/josorior/)  
-- [Google Scholar]((https://scholar.google.com/citations?user=ZtE8cWYAAAAJ&hl=en))  
+- [Google Scholar](https://scholar.google.com/citations?user=ZtE8cWYAAAAJ&hl=en)
 - [Email](mailto:josorior@email.com)  
 
 ---
