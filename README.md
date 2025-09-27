@@ -2,9 +2,9 @@
 
 **Open to Summer 2026 Internship Opportunities** in ML/AI, Data Science, or Quantitative research.
 
-Ph.D. Candidate in Applied Mathematics at the University of Washington working with Prof. Bamdad Hosseini. 
+Ph.D. Candidate in Applied Mathematics at the University of Washington working with Prof. Bamdad Hosseini.  
 Former AI/ML Cloud Engineer at Oracle  
-📍Based in Seattle, WA
+📍 Based in Seattle, WA
 
 ---
 
